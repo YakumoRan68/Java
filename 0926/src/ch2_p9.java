@@ -13,6 +13,7 @@ public class ch2_p9 {
 		}
 		
 		System.out.print(str.length() == 2 ? "박수없음" : str);
+		scanner.close();
 	}
 
 }
