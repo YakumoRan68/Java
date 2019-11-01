@@ -1,5 +1,5 @@
 
-public class ch3_Bonus1 {
+public class ch3_b1 {
 
 	public static void main(String[] args) {
 		int Arr[][] = new int[3][4];
@@ -16,7 +16,7 @@ public class ch3_Bonus1 {
 			//System.out.println(i);
 		}
 		
-		System.out.println("гую╨ " + sum);
+		System.out.println("О©╫О©╫О©╫О©╫ " + sum);
 	}
 
 }

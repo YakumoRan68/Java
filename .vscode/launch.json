@@ -1,0 +1,196 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArrayAccess<0926>",
+            "request": "launch",
+            "mainClass": "ArrayAccess",
+            "projectName": "0926"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Ex2_1<0926>",
+            "request": "launch",
+            "mainClass": "Ex2_1",
+            "projectName": "0926"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Ex3_1<0926>",
+            "request": "launch",
+            "mainClass": "Ex3_1",
+            "projectName": "0926"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ScannerEx<0926>",
+            "request": "launch",
+            "mainClass": "ScannerEx",
+            "projectName": "0926"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-arithmetic<0926>",
+            "request": "launch",
+            "mainClass": "arithmetic",
+            "projectName": "0926"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ch2_p1<0926>",
+            "request": "launch",
+            "mainClass": "ch2_p1",
+            "projectName": "0926"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ch2_p2<0926>",
+            "request": "launch",
+            "mainClass": "ch2_p2",
+            "projectName": "0926"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ch2_p3<0926>",
+            "request": "launch",
+            "mainClass": "ch2_p3",
+            "projectName": "0926"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ch2_p4<0926>",
+            "request": "launch",
+            "mainClass": "ch2_p4",
+            "projectName": "0926"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ch2_p5<0926>",
+            "request": "launch",
+            "mainClass": "ch2_p5",
+            "projectName": "0926"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ch2_p6<0926>",
+            "request": "launch",
+            "mainClass": "ch2_p6",
+            "projectName": "0926"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ch2_p7<0926>",
+            "request": "launch",
+            "mainClass": "ch2_p7",
+            "projectName": "0926"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ch2_p8<0926>",
+            "request": "launch",
+            "mainClass": "ch2_p8",
+            "projectName": "0926"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ch2_p9<0926>",
+            "request": "launch",
+            "mainClass": "ch2_p9",
+            "projectName": "0926"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Class_1<1010>",
+            "request": "launch",
+            "mainClass": "Class_1",
+            "projectName": "1010"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Class_2<1010>",
+            "request": "launch",
+            "mainClass": "Class_2",
+            "projectName": "1010"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exception<1010>",
+            "request": "launch",
+            "mainClass": "Exception",
+            "projectName": "1010"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ch3_Bonus1<1010>",
+            "request": "launch",
+            "mainClass": "ch3_Bonus1",
+            "projectName": "1010"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ch3_p1<1031>",
+            "request": "launch",
+            "mainClass": "ch3_p1",
+            "projectName": "1031"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ch3_p2<1031>",
+            "request": "launch",
+            "mainClass": "ch3_p2",
+            "projectName": "1031"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ch3_p3<1031>",
+            "request": "launch",
+            "mainClass": "ch3_p3",
+            "projectName": "1031"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ch3_p4<1031>",
+            "request": "launch",
+            "mainClass": "ch3_p4",
+            "projectName": "1031"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ch3_p5<1031>",
+            "request": "launch",
+            "mainClass": "ch3_p5",
+            "projectName": "1031"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ch3_p6<1031>",
+            "request": "launch",
+            "mainClass": "ch3_p6",
+            "projectName": "1031"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ch3_p7<1031>",
+            "request": "launch",
+            "mainClass": "ch3_p7",
+            "projectName": "1031"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ch4_e6<1031>",
+            "request": "launch",
+            "mainClass": "ch4_e6",
+            "projectName": "1031"
+        }
+    ]
+}
