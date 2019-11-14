@@ -13,8 +13,8 @@ public class ch5_c1 {
 		public void move() {
 			if(next == 1) this.x -= distance;
 			else if(next == 2) this.x += distance;
-			else if(next == 3) this.y += distance;
-			else this.y -= distance;
+			else if(next == 3) this.y -= distance;
+			else if(next == 4) this.y += distance;
 		}
 		
 		public char getShape() { return 'b'; }
@@ -28,10 +28,10 @@ public class ch5_c1 {
 		
 		public void move() { 
 			int next = (int)(Math.random() * 4);
-			if(next == 0) this.x -= distance;
-			else if(next == 1) this.x += distance;
-			else if(next == 2) this.y += distance;
-			else this.y -= distance;
+			if(next == 1) this.x -= distance;
+			else if(next == 2) this.x += distance;
+			else if(next == 3) this.y += distance;
+			else if(next == 4) this.y -= distance;
 		}
 		
 		public char getShape() { return '@'; }
@@ -49,7 +49,7 @@ public class ch5_c1 {
 					str += (x == bear.getX() && y == bear.getY()) ? bear.getShape() : (x == fish.getX() && y == fish.getY()) ? fish.getShape() : '-';
 				str += "\n";
 			}
-			
+			//str += ("\n" + bear.getX() + " " + bear.getY() + ", " + fish.getX() + " " + fish.getY());
 			System.out.print("위w, 왼쪽a, 아래s, 오른쪽d\n\n");
 			System.out.print(str);
 			
