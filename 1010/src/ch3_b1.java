@@ -16,7 +16,7 @@ public class ch3_b1 {
 			//System.out.println(i);
 		}
 		
-		System.out.println("О©╫О©╫О©╫О©╫ " + sum);
+		System.out.println("гую╨ " + sum);
 	}
 
 }

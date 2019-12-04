@@ -48,15 +48,11 @@ public class ch7_c1 {
 			try {
 				input = Integer.parseInt(scanner.next()); 
 				if(input > MAX_QUESTION || input <= 0) break;
-			} catch (Exception e) {
-				break;
-			}
+			} catch (Exception e) { break; }
 			
 			System.out.println(input - 1 == answer ? "Excellent !!" : "No. !!");
 			
-			for(Word i : question) {
-				v.add(i);
-			}
+			for(Word i : question) v.add(i);
 		}
 		scanner.close();
 		System.out.println("프로그램을 종료합니다.");

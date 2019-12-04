@@ -19,9 +19,9 @@ public class ch6_b3 {
                 
             } else if(key.equals("q")) {
                 break;
-            } else System.out.print("text" + ">>");
+            } else System.out.print(text + ">>");
         }
-        System.out.println("종료합니다.");
+        System.out.println("종료합니다...");
         scanner.close();
     }
 }
